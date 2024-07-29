@@ -27,4 +27,4 @@ CSV版: Javascript (HTML, CSS)
 ↓ ユーザーガイドも申し訳程度に書き中です(更新予定)
 ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9e940d05-ba00-4625-a5c9-28fd750bfa97/b2f8b039-5a9e-4b57-9fdd-e1a0a3672568/Untitled.png)
 ↓ GPTさんが生成してくれた文字列で私のお気に入りになった ”魚心あれば水心カリフラワー”
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9e940d05-ba00-4625-a5c9-28fd750bfa97/a33b1da1-746a-4b8b-823d-645e1385e8f4/Untitled.png)
+![Untitled](https://github.com/gyunyu95/deleteTest/blob/images/wr-details.png)
