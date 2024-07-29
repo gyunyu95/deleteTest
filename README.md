@@ -19,7 +19,8 @@ CSV版: Javascript (HTML, CSS)
 
 # ↓ アクセスしたらこんなお出迎え
 ![Untitled](https://github.com/gyunyu95/deleteTest/blob/images/wr-home.png)
-# ↓ お手持ちのCSVをお授けください ※データはアプリ内で雨を生成し降らせるためだけに使用されます。
+# ↓ お手持ちのCSVをお授けください   
+※データはアプリ内で雨を生成し降らせるためだけに使用されます。
 ![Untitled](https://github.com/gyunyu95/deleteTest/blob/images/wr-reqcsv.png)
 # ↓ ユーザーガイドも申し訳程度に書き中です(更新予定)
 ![Untitled](https://github.com/gyunyu95/deleteTest/blob/images/wr-userguide.png)
